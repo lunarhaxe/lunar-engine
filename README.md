@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> Vortex is being discontinued in favor of **zina.hx**, a simple graphics and audio API for Haxe.
+> 
+> It will be kept publicly archived for people who may still want to
+> give Vortex a try, or atleast to look at it's code.
+> 
+> You can find zina.hx on this same organization [here](https://github.com/zina-framework/zina.hx)!
+
 <img src="https://avatars.githubusercontent.com/u/146598504" alt="Vortex Engine Logo" align="right" width="200" height="200" />
 
 # Vortex
@@ -9,12 +17,6 @@ MacOS support is currently untested.
 
 ## 💡 Getting Started
 In order to start using Vortex, start by installing the haxelib:
-
-### 🐌 Stable Installation
-This will install the most **stable** and up to date version of Vortex.
-```sh
-haxelib install vortex
-```
 
 ### ⚡ Development Installation
 This will install the very latest, potentially unstable version of Vortex.
