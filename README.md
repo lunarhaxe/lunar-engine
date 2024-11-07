@@ -6,7 +6,7 @@
 > 
 > You can find zina.hx on this same organization [here](https://github.com/zina-framework/zina.hx)!
 
-<img src="https://avatars.githubusercontent.com/u/146598504" alt="Vortex Engine Logo" align="right" width="200" height="200" />
+<img src="https://raw.githubusercontent.com/zina-framework/.github/refs/heads/main/profile/vortex.png" alt="Vortex Logo" align="right" width="200" height="200" />
 
 # Vortex
 A 2D Game Framework made in Haxe built for simplicity and performance.
